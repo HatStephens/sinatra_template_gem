@@ -25,4 +25,4 @@ Then in your command line run:
 5. Create a new Pull Request
 
 ## Collaborators
-- @HatStephens - (http://www.github.com/HatStephens)
+- @HatStephens - ( http://www.github.com/HatStephens )
